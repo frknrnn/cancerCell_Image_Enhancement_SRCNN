@@ -5,5 +5,5 @@ Super resolution convolutional neural network model was trained using A2780 cell
 # INPUT
 ![Screenshot](Images/a2780.png)
 
-#OUTPUT
+# OUTPUT
 ![Screenshot](Images/a2780_srcnn.png)
